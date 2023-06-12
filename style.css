@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    background-image:url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color: rgba(225, 226, 228, 0.5);
+    margin: auto;
+    padding: 100px 375
+    width
+    flex: content;
+    
+    
+}
+main{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 100vh;
+    
+    
+}
+.hero-section{
+    margin: auto;
+    padding:0px 300px 500px 50px ;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.logo img{
+    margin: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+
+
+h1{
+    color:hsl(223, 47%, 23%);
+    font-family: 'Red Hat Display', sans-serif ;
+    font-size: 30px;
+    width: 300px;
+    margin: 30px auto 20px auto;
+    text-align: center;
+}
+.hero-section p{
+    color: hsl(224, 23%, 55%);
+    font-family: 'Red Hat Display', sans-serif ;
+    font-size: 15px;
+    width: 280px;
+    margin:20px auto 30px auto ;
+    text-align: center;
+}
+.words{
+    background-color: white;
+}
+.icon img{
+    padding-right: 250px;
+    display:inline-block;
+}
+fieldset{
+    margin: 0px 60px;
+    border-radius: 10px;
+    background-color: white;
+}
